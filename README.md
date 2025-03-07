@@ -39,9 +39,9 @@ myInfo.append(In the employer's mind)
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-jaf"/>
 </a>
 
-<h2>Connct Me </h2>
+<h2>Contact Me</h2>
 
-<p align="center">
+<p>
   <a href="https://instagram.com/shayan._.jaf_/">
     <img src="https://img.shields.io/badge/Instagram-@shayan._.jaf_-purple?style=flat&logo=instagram" />
   </a>
