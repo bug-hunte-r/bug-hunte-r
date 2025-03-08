@@ -35,8 +35,8 @@ myInfo.append(In the employer's mind)
 <h2>Github Stats</h2>
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=shayan-jaf&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shayan-jaf"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bug-hunte-r&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bug-hunte-r"/>
 </a>
 
 <h2>Contact Me</h2>
