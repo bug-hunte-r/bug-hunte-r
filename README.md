@@ -4,12 +4,11 @@
 
 ```Javascript
 let myInfo = {
-name: 'shayan',
-lastName: 'Jafarnejad',
-age: 17,
-vernacualr: 'Kurdish',
-stack: 'Front-End',
-skills: 'HTML, CSS, JS, REACT, REACT router, REACT bootstrap, MUI'
+    name: 'shayan',
+    lastName: 'Jafarnejad',
+    age: 17,
+    vernacualr: 'Kurdish',
+    stack: 'Front-End'
 }
 
 myInfo.append(In the employer's mind)
@@ -31,6 +30,7 @@ myInfo.append(In the employer's mind)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 <h2>Github Stats</h2>
 
