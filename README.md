@@ -7,7 +7,6 @@ let myInfo = {
     name: 'shayan',
     lastName: 'Jafarnejad',
     age: 17,
-    vernacualr: 'Kurdish',
     stack: 'Front-End'
 }
 
