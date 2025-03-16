@@ -4,7 +4,7 @@
 
 ```Javascript
 let myInfo = {
-    name: 'shayan',
+    name: 'Shayan',
     lastName: 'Jafarnejad',
     age: 17,
     stack: 'Front-End'
