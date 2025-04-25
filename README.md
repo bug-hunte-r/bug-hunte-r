@@ -40,7 +40,6 @@ myInfo.append(In the employer's mind)
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=bug-hunte-r&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bug-hunte-r"/>
 </a>
 
 <h2>Contact Me</h2>
