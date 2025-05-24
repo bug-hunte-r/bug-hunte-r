@@ -1,5 +1,6 @@
 <h2>Hi! I'm Shayan Jafarnejad</h2>
 <h3>I'm REACT Developer</h3>
+<h6>The reason for the empty contributes table is learning Next.js :)</h6>
 
 <h3> About Me</h3>
 
