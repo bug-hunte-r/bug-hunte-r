@@ -1,5 +1,5 @@
 <h2>Hi! I'm Shayan Jafarnejad</h2>
-<h3>I'm REACT Developer</h3>
+<h3>I'm Next.js Developer</h3>
 
 <h3> About Me</h3>
 
