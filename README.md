@@ -8,6 +8,7 @@ let myInfo = {
     name: 'Shayan',
     lastName: 'Jafarnejad',
     age: 18,
+    Level: 'Mid-Level',
     stack: 'Full Stack'
 }
 
