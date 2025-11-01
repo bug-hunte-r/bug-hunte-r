@@ -5,11 +5,11 @@
 
 ```Javascript
 let myInfo = {
-    name: 'Shayan',
-    lastName: 'Jafarnejad',
-    age: 18,
+    Name: 'Shayan',
+    LastName: 'Jafarnejad',
+    Age: 18,
     Level: 'Mid-Level',
-    stack: 'Full Stack'
+    Stack: 'Full Stack'
 }
 
 myInfo.append(In the employer's mind)
