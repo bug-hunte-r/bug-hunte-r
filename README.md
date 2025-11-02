@@ -43,14 +43,6 @@ myInfo.append(In the employer's mind)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
-<h2>Github Stats</h2>
-
-<div>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=bug-hunte-r&show_icons=true&theme=dark" />
-</a>
-</div>
-
 <h2>Contact Me</h2>
 
 <p>
