@@ -5,7 +5,7 @@
 
 ```Javascript
 let myInfo = {
-    Name: 'Shayan',
+    FirstName: 'Shayan',
     LastName: 'Jafarnejad',
     Age: 18,
     Level: 'Mid-Level',
